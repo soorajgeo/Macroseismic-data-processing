@@ -1,0 +1,16 @@
+﻿Situation,Value1,Your feeling,Value2,Others feeling,Value3,Duration,Value4,Noise,Value5,Awake,Value6,Reaction,Value7,Response,Value8,Building type,Value9,Swinging,Value10,Shelves,Value11,Picture,Value12,Furniture,Value13,Heavy objects,Value14,House damage,Value15
+No answer,0,No description,0,No answer/ Don’t  know/ Nobody else nearby,0,Could not recollect to  <  1 sec,0,No answer/Did not pay attention,0,No,0,No answer/ Don’t remember,0,No answer/Don’t remember,0,No building,0,No answer/Did not look,0,No answer/ No shelves,0,No answer/No pictures,0,No answer/ No furniture,0,No answer/ No heavy appliance,0,No answer,0
+Inside,1.67,not felt,1,No others felt it,1.67,1 to 5 sec,1.67,No,2,Slept through it,3.33,No reaction/ not felt,1,Took No action,1.67,Earthen structure,1.67,No,2,No,1.33,No,2,No,3.33,No,1.33,No,0.51
+outside,3.33,weak,2,"Some felt it, but most Did not",3.33,6 to 10 sec,3.33,"yes, slight noise",4,Woke up,6.67,Very little reaction,2,Moved to doorway,3.33,Adobe building,3.33,"yes, slight swinging",4,Rattled slightly,2.67,"yes, but Did not fall",4,yes,6.67,"yes, Some contents fell out",2.67,"yes, Hairline cracks in walls",1.02
+in stopped vehicle,5,Mild,3,most others felt it but Some Did not,5,11 to 15 sec,5,"yes, loud noise",6.67,,,Excitement,3,Ducked and covered,5,RCC building,5,"yes, violent swinging",6.67,Rattled loudly,4,"yes, and Some fell",6.67,,,"yes, shifted by inches",4,"yes, Few large walls were cracked",1.53
+in moving vehicle,6.67,Moderate,4,Everyone or almost Everyone felt it,6.67,> 15 sec,6.67,,,,,Somewhat frightened,4,Ran outside,6.67,Wooden house,6.67,,,A Few toppled or fell off,5.34,,,,,yes shifted by A foot or more,5.34,"yes, Many large walls were cracked",2.04
+,,Strong,5,,,,,,,,,Very frightened,5,,,,,,,Many fell off,6.67,,,,,yes overturned,6.67,"yes, cracks in chimney",2.55
+,,violent,6.67,,,,,,,,,Extremely frightened,6.67,,,,,,,,,,,,,,,"yes, Old chimney major damage or fell down.",3.06
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Yes, RC beam and/ or column cracked",3.57
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Yes, RC floor and / or roof cracked",4.08
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,"yes, outside wall tilted or collapsed",4.59
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,"yes, separation of additional part of building (
+porch, balcony, etc.)",5.1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,"yes, building permanently tilted",5.61
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,"yes, Modern chimney major damage or fell down",6.12
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,"yes, building permanently shifted over foundation or total collapse.",6.67
